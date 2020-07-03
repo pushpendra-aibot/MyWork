@@ -1,3 +1,5 @@
+# Used iris dataset
+# The objective is to implemet PCA algorithm without using any package and compare the accuracy of the resuts before and after PCA using spectral Clustering
 import numpy as np
 import pandas as pd
 import sys
