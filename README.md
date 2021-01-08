@@ -1,5 +1,5 @@
 ## MyWork
-This repository is being maintained to showcase the work that I have done.
+This repository is being maintained to showcase the work that I have done. 
 
 The work is divided in folders as below:
 
