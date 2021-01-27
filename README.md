@@ -18,4 +18,5 @@ If you are visting this repository, I would love to have feedbacks. Please share
 6. Multi-layer implementation without using any library.
 7. Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models Implemented.
 8. Emotional Chatting Machine:
-9. CAM Analysis 
+9. CAM Analysis
+10. BERT models 
